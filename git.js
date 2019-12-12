@@ -3,7 +3,9 @@ var msg = "git"
 
 window.onlod = function ()
 	{
-		alert("msg");
+		var i = 2;
 		this.alert("git add");
 		this.alert("github pull ");
-}
+
+		 this.alert(function branch);
+		}
