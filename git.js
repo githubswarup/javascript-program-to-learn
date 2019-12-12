@@ -7,5 +7,7 @@ window.onlod = function ()
 		this.alert("git add");
 		this.alert("github pull ");
 
-		 this.alert(function branch);
+		 this.alert("function branch");
+
+		 this.alert("alert branch");
 		}
